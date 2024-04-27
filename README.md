@@ -47,9 +47,6 @@ This project predicts the closing prices of stocks in the Nifty50 index using LS
 - Commit your changes and push to the branch.
 - Create a pull request.
 
-## License
-- This project is licensed under the MIT License.
-
 ## Acknowledgements
 - Data sourced from Nifty50 stock CSV files.
 - Built with Python, Streamlit, Keras, Pandas, NumPy, and Matplotlib.
